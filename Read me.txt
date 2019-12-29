@@ -1,0 +1,15 @@
+so we will provide you:
+1- admin panel (where admin manages all stuff within the webapp)
+2- user/student panel (where user/student manages there enrolled courses and see the progress)
+3- tutor panel (where tutor can see their student's progress included their assigned courses/student )
+4- and a website for public
+
+the flow of the web app will work like that:
+
+Student comes into website, create his/her account and then select course and pays the required fees, then this request will go to admin ... and then admin assigned tutor to this particular student... and on tutor's panel, this request will be shown.
+
+and then tutor and student can communicate with each other....
+and rest will be the process of course..
+
+
+
